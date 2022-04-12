@@ -17,3 +17,6 @@
     * tree shaking -- sideEffect
     * code split
     * 懒加载/预加载
+    * pwa
+    * externals
+    * dll
