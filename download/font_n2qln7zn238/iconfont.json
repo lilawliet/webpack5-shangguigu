@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "28606912",
+      "name": "大气湿度",
+      "font_class": "daqishidu",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "28606913",
+      "name": "PM10",
+      "font_class": "PM10",
+      "unicode": "e6be",
+      "unicode_decimal": 59070
+    },
+    {
+      "icon_id": "28606914",
+      "name": "风速",
+      "font_class": "fengsu",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "28606915",
+      "name": "PM2.5_面",
+      "font_class": "a-PM25_mian",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "28606916",
+      "name": "电压",
+      "font_class": "dianya",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    }
+  ]
+}
