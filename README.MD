@@ -1,3 +1,6 @@
+# [尚硅谷新版Webpack5实战教程(从入门到精通)](https://www.bilibili.com/video/BV1e7411j7T5?p=38&spm_id_from=pageDriver) 
+# 课程代码（笔记）
+
 # webpack 性能优化
 * 开发环境性能优化
 * 生产环境性能优化
